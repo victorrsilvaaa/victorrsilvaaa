@@ -12,7 +12,7 @@ Desenvolvedor Back-End especializado em Java e Spring Boot, com foco na constru√
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/5581988612369">
+<a">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
