@@ -29,6 +29,6 @@ e integração com bancos de dados.
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,git,github,docker,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,git,github,insomnia,claude&theme=dark" />
 
 </div>
