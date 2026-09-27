@@ -4,8 +4,7 @@
 
 ### ☕ Java Back-End Developer
 
-Desenvolvedor Back-End focado em Java, Spring Boot, APIs REST
-e integração com bancos de dados.
+Desenvolvedor Back-End especializado em Java e Spring Boot, com foco na construção de APIs REST, integração com bancos de dados e desenvolvimento de soluções eficientes, organizadas e escaláveis.
 
 <br>
 
@@ -29,6 +28,10 @@ e integração com bancos de dados.
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,git,github,insomnia,claude&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,git,github&theme=dark" />
+
+<img src="https://cdn.simpleicons.org/dbeaver" height="48" alt="DBeaver" />
+<img src="https://cdn.simpleicons.org/insomnia" height="48" alt="Insomnia" />
+<img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude" />
 
 </div>
